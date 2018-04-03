@@ -1,0 +1,6 @@
+/home/suriknik/Projects/CHAT_RSA/CHAT_RSA/CHAT_RSA/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/suriknik/Projects/CHAT_RSA/CHAT_RSA/CHAT_RSA/obj/x86/Debug/CHAT_RSA.gtk-gui.gui.stetic
+/home/suriknik/Projects/CHAT_RSA/CHAT_RSA/CHAT_RSA/bin/Debug/CHAT_RSA.pdb
+/home/suriknik/Projects/CHAT_RSA/CHAT_RSA/CHAT_RSA/bin/Debug/CHAT_RSA.exe
+/home/suriknik/Projects/CHAT_RSA/CHAT_RSA/CHAT_RSA/obj/x86/Debug/CHAT_RSA.exe
+/home/suriknik/Projects/CHAT_RSA/CHAT_RSA/CHAT_RSA/obj/x86/Debug/CHAT_RSA.pdb
